@@ -9,6 +9,10 @@ Simple Test from Blackpepper
 Via Composer
 
 ``` bash
+$ compsoer install 
+
+## if composer.json missing
+
 $ composer require bagduch/blackpepper:dev-master
 ```
 
