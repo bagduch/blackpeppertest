@@ -8,7 +8,7 @@ $datas = $loader->get();
 
 <html class="gr__blackpepper_co_nz">
 <head><title>Sample</title>
-    <link rel="stylesheet" href="/css/blackpepper.css">
+    <link rel="stylesheet" href="css/blackpepper.css">
 </head>
 
 <body data-gr-c-s-loaded="true">

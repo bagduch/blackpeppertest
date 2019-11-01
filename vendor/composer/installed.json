@@ -6,12 +6,12 @@
         "source": {
             "type": "git",
             "url": "https://github.com/bagduch/blackpepper.git",
-            "reference": "c3a827ac7a7d0c5fae27004df7e0064d549748e6"
+            "reference": "96e74fe3396ec051e5de9e5046adea6e05d10de8"
         },
         "dist": {
             "type": "zip",
-            "url": "https://api.github.com/repos/bagduch/blackpepper/zipball/c3a827ac7a7d0c5fae27004df7e0064d549748e6",
-            "reference": "c3a827ac7a7d0c5fae27004df7e0064d549748e6",
+            "url": "https://api.github.com/repos/bagduch/blackpepper/zipball/96e74fe3396ec051e5de9e5046adea6e05d10de8",
+            "reference": "96e74fe3396ec051e5de9e5046adea6e05d10de8",
             "shasum": ""
         },
         "require": {
@@ -20,7 +20,7 @@
         "require-dev": {
             "phpunit/phpunit": "^4"
         },
-        "time": "2019-11-01T04:50:35+00:00",
+        "time": "2019-11-01T07:49:02+00:00",
         "type": "library",
         "installation-source": "source",
         "autoload": {
