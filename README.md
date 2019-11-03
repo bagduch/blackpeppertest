@@ -9,8 +9,10 @@ Simple Test from Blackpepper
 Via Composer
 
 ``` bash
+cd blackpeppertest
 $ compsoer install 
 
+makes sure the csv is put inside the git
 ## if composer.json missing
 
 $ composer require bagduch/blackpepper:dev-master
