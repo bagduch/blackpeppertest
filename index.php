@@ -1,9 +1,13 @@
-<? require "vendor/autoload.php";
+<?php
+require "vendor/autoload.php";
 
 use bagduch\blackpepper\Csvloader;
-
-$loader = new Csvloader('storage');
+$loader = new Csvloader('../');
 $datas = $loader->get();
+if (sizeof($datas) < 1)
+{
+    exit("no file found");
+}
 ?>
 
 <html class="gr__blackpepper_co_nz">
