@@ -2,7 +2,7 @@
 require "vendor/autoload.php";
 
 use bagduch\blackpepper\Csvloader;
-$loader = new Csvloader('../');
+$loader = new Csvloader('');
 $datas = $loader->get();
 if (sizeof($datas) < 1)
 {
